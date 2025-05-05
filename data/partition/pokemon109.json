@@ -1,0 +1,8 @@
+[
+    {
+        "id": 110,
+        "name": "weezing",
+        "is_default": true,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/110/encounters"
+    }
+]

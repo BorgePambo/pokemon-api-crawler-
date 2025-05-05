@@ -1,0 +1,8 @@
+[
+    {
+        "id": 1006,
+        "name": "iron-valiant",
+        "is_default": true,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/1006/encounters"
+    }
+]

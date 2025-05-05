@@ -1,0 +1,8 @@
+[
+    {
+        "id": 10005,
+        "name": "wormadam-trash",
+        "is_default": false,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/10005/encounters"
+    }
+]

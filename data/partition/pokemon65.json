@@ -1,0 +1,8 @@
+[
+    {
+        "id": 66,
+        "name": "machop",
+        "is_default": true,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/66/encounters"
+    }
+]

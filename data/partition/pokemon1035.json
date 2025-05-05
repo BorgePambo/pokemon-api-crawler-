@@ -1,0 +1,8 @@
+[
+    {
+        "id": 10011,
+        "name": "rotom-fan",
+        "is_default": false,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/10011/encounters"
+    }
+]

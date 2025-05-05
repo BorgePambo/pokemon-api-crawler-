@@ -1,0 +1,8 @@
+[
+    {
+        "id": 240,
+        "name": "magby",
+        "is_default": true,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/240/encounters"
+    }
+]

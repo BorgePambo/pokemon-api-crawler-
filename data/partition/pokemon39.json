@@ -1,0 +1,8 @@
+[
+    {
+        "id": 40,
+        "name": "wigglytuff",
+        "is_default": true,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/40/encounters"
+    }
+]

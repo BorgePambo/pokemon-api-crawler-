@@ -1,0 +1,8 @@
+[
+    {
+        "id": 10200,
+        "name": "meowth-gmax",
+        "is_default": false,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/10200/encounters"
+    }
+]

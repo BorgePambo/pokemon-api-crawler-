@@ -1,0 +1,8 @@
+[
+    {
+        "id": 10008,
+        "name": "rotom-heat",
+        "is_default": false,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/10008/encounters"
+    }
+]

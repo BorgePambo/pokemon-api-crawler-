@@ -1,0 +1,8 @@
+[
+    {
+        "id": 10,
+        "name": "caterpie",
+        "is_default": true,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/10/encounters"
+    }
+]

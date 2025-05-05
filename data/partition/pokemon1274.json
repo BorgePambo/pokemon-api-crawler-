@@ -1,0 +1,8 @@
+[
+    {
+        "id": 10250,
+        "name": "tauros-paldea-combat-breed",
+        "is_default": false,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/10250/encounters"
+    }
+]

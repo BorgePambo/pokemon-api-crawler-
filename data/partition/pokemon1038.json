@@ -1,0 +1,8 @@
+[
+    {
+        "id": 10014,
+        "name": "castform-rainy",
+        "is_default": false,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/10014/encounters"
+    }
+]

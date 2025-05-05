@@ -1,0 +1,8 @@
+[
+    {
+        "id": 52,
+        "name": "meowth",
+        "is_default": true,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/52/encounters"
+    }
+]

@@ -1,0 +1,8 @@
+[
+    {
+        "id": 1003,
+        "name": "ting-lu",
+        "is_default": true,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/1003/encounters"
+    }
+]

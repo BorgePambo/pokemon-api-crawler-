@@ -1,0 +1,8 @@
+[
+    {
+        "id": 161,
+        "name": "sentret",
+        "is_default": true,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/161/encounters"
+    }
+]

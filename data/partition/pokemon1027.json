@@ -1,0 +1,8 @@
+[
+    {
+        "id": 10003,
+        "name": "deoxys-speed",
+        "is_default": false,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/10003/encounters"
+    }
+]

@@ -1,0 +1,8 @@
+[
+    {
+        "id": 10256,
+        "name": "palafin-hero",
+        "is_default": false,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/10256/encounters"
+    }
+]

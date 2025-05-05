@@ -1,0 +1,8 @@
+[
+    {
+        "id": 711,
+        "name": "gourgeist-average",
+        "is_default": true,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/711/encounters"
+    }
+]

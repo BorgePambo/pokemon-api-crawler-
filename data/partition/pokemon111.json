@@ -1,0 +1,8 @@
+[
+    {
+        "id": 112,
+        "name": "rhydon",
+        "is_default": true,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/112/encounters"
+    }
+]

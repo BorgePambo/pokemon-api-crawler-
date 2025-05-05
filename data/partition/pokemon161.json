@@ -1,0 +1,8 @@
+[
+    {
+        "id": 162,
+        "name": "furret",
+        "is_default": true,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/162/encounters"
+    }
+]

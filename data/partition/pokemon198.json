@@ -1,0 +1,8 @@
+[
+    {
+        "id": 199,
+        "name": "slowking",
+        "is_default": true,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/199/encounters"
+    }
+]

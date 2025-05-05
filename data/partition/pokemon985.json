@@ -1,0 +1,8 @@
+[
+    {
+        "id": 986,
+        "name": "brute-bonnet",
+        "is_default": true,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/986/encounters"
+    }
+]

@@ -1,0 +1,8 @@
+[
+    {
+        "id": 10100,
+        "name": "raichu-alola",
+        "is_default": false,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/10100/encounters"
+    }
+]

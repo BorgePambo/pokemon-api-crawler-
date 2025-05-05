@@ -1,0 +1,8 @@
+[
+    {
+        "id": 222,
+        "name": "corsola",
+        "is_default": true,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/222/encounters"
+    }
+]

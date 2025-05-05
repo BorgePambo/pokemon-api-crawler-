@@ -1,0 +1,8 @@
+[
+    {
+        "id": 1005,
+        "name": "roaring-moon",
+        "is_default": true,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/1005/encounters"
+    }
+]

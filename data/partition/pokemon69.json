@@ -1,0 +1,8 @@
+[
+    {
+        "id": 70,
+        "name": "weepinbell",
+        "is_default": true,
+        "location_area": "https://pokeapi.co/api/v2/pokemon/70/encounters"
+    }
+]
